@@ -1,11 +1,11 @@
 ### Hi there, I'm Tebogo 👋👋 
 
-## I'm a Junior Developer, and Teacher!!
+## I'm a Junior Developer, and Tutor/Teacher!!
 
 - 🔭 I am currently working on Groovist, which is not live yet all the other projects I have going on can be found: [Here][website]!
-- 🌱 I’m currently learning python and automation testing :sunglasses:
-- 👯 I’m looking to collaborate with other developers on Data Engineering topics
-- 🥅 2022 Goals: Contribute more to my first Open Source project, blog frequently
+- 🌱 I’m currently learning more about java in enetrprise and automation testing :sunglasses:
+- 👯 I’m looking to collaborate with other developers interesting Engineering topics.
+- 🥅 2022 Goals: 1. Contribute more to open source projects (let me know when you are working on anything interesting), 2. Blog frequently
 - ⚡ Fun fact: I love to garden (I grow a lot of vegetables and fruits considered vegetables) 
 
 ### Connect with me:
