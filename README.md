@@ -67,10 +67,6 @@
   
 ➡️ [More details on my personal website...](https://errors.co.za)
 ---
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TGNkwane&theme=radical)
-</details>
 
 [website]: https://errors.co.za
 [twitter]: https://twitter.com/CEOofDPR
